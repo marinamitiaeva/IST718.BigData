@@ -5,9 +5,9 @@ Reddit’s moderation system relies heavily on human intervention, which can be 
 
 ## Team Members
 - Marina Mitiaeva, mmitiaev@syr.edu
-- Mervin McDougall, 
-- Lakshmi Peram
-- Nick DeVita
+- Mervin McDougall, msmcdoug@syr.edu
+- Lakshmi Peram, lperam@syr.edu
+- Nick DeVita, njdevita@syr.edu
 
 ## Project Pipeline
 1. **Data Collection**: Extracted and sampled Reddit dataset from Hugging Face.
